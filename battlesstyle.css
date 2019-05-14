@@ -1,0 +1,105 @@
+﻿
+	body {
+	height: 940px;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(images/3.jpg);
+	}  
+	
+   .block1 { 
+    display: inline-block;
+    width: 33%; 
+    background: opacity;     
+	margin: 0px;
+	height: 51%;
+	background: url(images/1.png) no-repeat, rgba(187, 184, 196, 0.6);
+	background-position: center;
+	border: solid 3px #000000;
+	border-style: solid;
+	border-collapse: collapse;
+	margin-right: -4px;
+   }
+   .block1:hover {
+    background-color: rgba(187, 184, 196, 0.8);
+   }
+   .block2 { 
+	display: inline-block;
+    width: 33%; 
+    background: opacity;   
+	margin: 0px;
+	height: 51%;
+	background: url(images/2.png) no-repeat, rgba(217, 222, 226, 0.6);
+	background-position: center;
+	border: solid 3px #000000;
+	border-style: solid;
+	border-collapse: collapse;
+	margin-right: -4px;
+   }
+   .block2:hover {
+    background-color: rgba(217, 222, 226, 0.8);
+   }
+   .block3 { 
+    display: inline-block;
+    width: 33%; 
+    background: opacity;      
+	margin: 0px;
+	height: 51%;
+	background: url(images/3.png) no-repeat, rgba(187, 184, 196, 0.6);
+	background-position: center;
+	border: solid 3px #000000;
+	border-style: solid;
+	border-collapse: collapse;
+	margin-right: -4px;
+   }
+   .block3:hover {
+    background-color: rgba(187, 184, 196, 0.8);
+   }
+   .block4 { 
+    display: inline-block;
+    width: 33%; 
+    background: opacity;       
+	margin: 0px;
+	height: 51%;
+	background: url(images/4.png) no-repeat, rgba(217, 222, 226, 0.6);
+	background-position: center;
+	border: solid 3px #000000;
+	border-style: solid;
+	border-collapse: collapse;
+	margin-right: -4px;
+   }
+   .block4:hover {
+    background-color: rgba(217, 222, 226, 0.8);
+   }
+   .block5 { 
+    display: inline-block;
+    width: 33%; 
+    background: opacity;      
+	margin: 0px;
+	height: 51%;
+	background: url(images/5.png) no-repeat, rgba(187, 184, 196, 0.6);
+	background-position: center;
+	border: solid 3px #000000;
+	border-style: solid;
+	border-collapse: collapse;
+	margin-right: -4px;
+   }
+   .block5:hover {
+    background-color: rgba(187, 184, 196, 0.8);
+   }
+   .block6 { 
+    display: inline-block;
+    width: 33%; 
+    background: opacity;      
+	margin: 0px;
+	height: 51%;
+	background: url(images/6.png) no-repeat, rgba(217, 222, 226, 0.6);
+	background-position: center;
+	border: solid 3px #000000;
+	border-style: solid;
+	border-collapse: collapse;
+	margin-right: -4px;
+   }
+   .block6:hover {
+    background-color: rgba(217, 222, 226, 0.8);
+   }
+

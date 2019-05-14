@@ -1,0 +1,26 @@
+body {
+	background-image: url(images/1.jpg);
+	background-size: cover
+
+}
+.ex {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 725px;
+	width:60%;
+	margin-top: 50px;
+	height:400px;
+	border: solid 3px black;
+	border-radius: 70%;
+    -moz-border-radius: 70%;
+    -webkit-border-radius: 70%;
+    -khtml-border-radius: 70%;
+	text-align: center;
+	-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+	background: url(images/7.png) no-repeat, rgba(244, 209, 66, 0.3);
+	background-position: center;
+}	
+ .ex:hover {
+	background-color:rgba(244, 209, 66, 0.7); 
+   }
